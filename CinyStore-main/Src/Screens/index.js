@@ -1,0 +1,12 @@
+export {default as InitialScreen} from '../Screens/IntialScreen/IntialScreen';
+export {default as Login} from '../Screens/LoginScreen/Login';
+export {default as Home} from '../Screens/Home/Home';
+export {default as Browse} from '../Screens/Browse/Browse';
+export {default as Feed} from '../Screens/Feed/Feed';
+export {default as OtpVerifcation} from '../Screens/OtpVerification/OtpVerifcation';
+export {default as Reviews} from '../Screens/Reviews/Reviews';
+export {default as Trailer} from '../Screens/Trailers/Trailer';
+export {default as GroupsPage} from '../Screens/Groups/GroupsPage';
+export {default as NewGroup} from '../Screens/NewGroup/NewGroup';
+export {default as Warriors} from '../Screens/Warriors/Warriors';
+// export {default as Reviews} from '../Screens/Reviews/Reviews';
